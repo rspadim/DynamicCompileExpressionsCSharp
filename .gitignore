@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.cache
+*.dbmdl
+*.bak
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.csproj.user
+
+# Rider-specific workspace files
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+Migrations/
+
+# Logs and database
+*.log
+*.sqlite
+*.db
+
+# Others
+*.tmp
+*.temp
+*.pid
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Rider local history
+.idea/.idea.LocalHistory/
+
+# dotenv
+.env
+.env.*
